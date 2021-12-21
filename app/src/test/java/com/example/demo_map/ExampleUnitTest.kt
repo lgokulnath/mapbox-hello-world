@@ -1,4 +1,4 @@
-package com.example.helloworld
+package com.example.demo_map
 
 import org.junit.Test
 
